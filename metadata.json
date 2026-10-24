@@ -1,0 +1,6 @@
+{
+  "name": "Nadia's Birthday Adventure",
+  "description": "A personalized 2D pixel-art story adventure celebrating Nadia's birthday and cherished memories from 2022 to 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
